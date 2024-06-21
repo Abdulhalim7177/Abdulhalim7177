@@ -1,0 +1,62 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\assets\css\custom.css.map" />
+    <None Include="wwwroot\assets\css\fontawesome.css.map" />
+    <None Include="wwwroot\assets\css\style.css.map" />
+    <None Include="wwwroot\assets\js\bootstrap.bundle.js" />
+    <None Include="wwwroot\assets\js\bootstrap.bundle.js.map" />
+    <None Include="wwwroot\assets\js\bootstrap.bundle.min.js" />
+    <None Include="wwwroot\assets\js\bootstrap.bundle.min.js.map" />
+    <None Include="wwwroot\assets\js\bootstrap.esm.js" />
+    <None Include="wwwroot\assets\js\bootstrap.esm.js.map" />
+    <None Include="wwwroot\assets\js\bootstrap.esm.min.js" />
+    <None Include="wwwroot\assets\js\bootstrap.esm.min.js.map" />
+    <None Include="wwwroot\assets\js\bootstrap.js" />
+    <None Include="wwwroot\assets\js\bootstrap.js.map" />
+    <None Include="wwwroot\assets\js\bootstrap.min.js.map" />
+    <None Include="wwwroot\assets\js\jquery-3.2.1.min.js" />
+    <None Include="wwwroot\assets\js\jquery.ajaxchimp.min.js" />
+    <None Include="wwwroot\assets\js\jquery.magnific-popup.min.js" />
+    <None Include="wwwroot\assets\js\theme.js" />
+    <None Include="wwwroot\assets\vendors\isotope\imagesloaded.pkgd.min.js" />
+    <None Include="wwwroot\assets\vendors\isotope\isotope-min.js" />
+    <None Include="wwwroot\assets\vendors\linericon\fonts\Linearicons-Free.svg" />
+    <None Include="wwwroot\assets\vendors\linericon\fonts\Linearicons-Free.woff2" />
+    <None Include="wwwroot\assets\vendors\nice-select\js\jquery.nice-select.js" />
+    <None Include="wwwroot\assets\vendors\nice-select\js\jquery.nice-select.min.js" />
+    <None Include="wwwroot\assets\vendors\owl-carousel\owl.carousel.min.js" />
+    <None Include="wwwroot\assets\webfonts\fa-brands-400.svg" />
+    <None Include="wwwroot\assets\webfonts\fa-brands-400.woff2" />
+    <None Include="wwwroot\assets\webfonts\fa-regular-400.svg" />
+    <None Include="wwwroot\assets\webfonts\fa-regular-400.woff2" />
+    <None Include="wwwroot\assets\webfonts\fa-solid-900.svg" />
+    <None Include="wwwroot\assets\webfonts\fa-solid-900.woff2" />
+    <None Include="wwwroot\images\arts\intro-section-illustration.psd" />
+    <None Include="wwwroot\lib\counterup\counterup.min.js" />
+    <None Include="wwwroot\lib\easing\easing.js" />
+    <None Include="wwwroot\lib\easing\easing.min.js" />
+    <None Include="wwwroot\lib\isotope\isotope.pkgd.js" />
+    <None Include="wwwroot\lib\isotope\isotope.pkgd.min.js" />
+    <None Include="wwwroot\lib\lightbox\js\lightbox.js" />
+    <None Include="wwwroot\lib\lightbox\js\lightbox.min.js" />
+    <None Include="wwwroot\lib\lightbox\links.php" />
+    <None Include="wwwroot\lib\main.js" />
+    <None Include="wwwroot\lib\owlcarousel\LICENSE" />
+    <None Include="wwwroot\lib\owlcarousel\owl.carousel.js" />
+    <None Include="wwwroot\lib\owlcarousel\owl.carousel.min.js" />
+    <None Include="wwwroot\lib\typed\typed.js" />
+    <None Include="wwwroot\lib\typed\typed.min.js" />
+    <None Include="wwwroot\lib\waypoints\links.php" />
+    <None Include="wwwroot\lib\waypoints\waypoints.min.js" />
+    <None Include="wwwroot\lib\wow\wow.js" />
+    <None Include="wwwroot\lib\wow\wow.min.js" />
+  </ItemGroup>
+
+</Project>
