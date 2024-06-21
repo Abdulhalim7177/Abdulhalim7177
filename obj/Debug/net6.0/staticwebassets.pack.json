@@ -1,0 +1,965 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Abdulhalim.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Abdulhalim.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\assets\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\assets\\css\\custom.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\custom.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\assets\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\assets\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\assets\\css\\fontawesome.css"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\assets\\css\\fontawesome.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\fontawesome.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\assets\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\assets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\assets\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\assets\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\assets\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\assets\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\assets\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\assets\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\assets\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\assets\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\assets\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\assets\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\assets\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\assets\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\assets\\js\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\assets\\js\\jquery.ajaxchimp.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.ajaxchimp.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\assets\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\assets\\js\\theme.js",
+      "PackagePath": "staticwebassets\\assets\\js\\theme.js"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\assets\\vendors\\glightbox\\css\\glightbox.css",
+      "PackagePath": "staticwebassets\\assets\\vendors\\glightbox\\css\\glightbox.css"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\assets\\vendors\\glightbox\\css\\glightbox.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendors\\glightbox\\css\\glightbox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\assets\\vendors\\glightbox\\js\\glightbox.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\glightbox\\js\\glightbox.js"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\assets\\vendors\\glightbox\\js\\glightbox.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\glightbox\\js\\glightbox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\assets\\vendors\\isotope\\imagesloaded.pkgd.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\isotope\\imagesloaded.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\assets\\vendors\\isotope\\isotope-min.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\isotope\\isotope-min.js"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\assets\\vendors\\linericon\\fonts\\Linearicons-Free.eot",
+      "PackagePath": "staticwebassets\\assets\\vendors\\linericon\\fonts\\Linearicons-Free.eot"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\assets\\vendors\\linericon\\fonts\\Linearicons-Free.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\linericon\\fonts\\Linearicons-Free.svg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\assets\\vendors\\linericon\\fonts\\Linearicons-Free.ttf",
+      "PackagePath": "staticwebassets\\assets\\vendors\\linericon\\fonts\\Linearicons-Free.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\assets\\vendors\\linericon\\fonts\\Linearicons-Free.woff",
+      "PackagePath": "staticwebassets\\assets\\vendors\\linericon\\fonts\\Linearicons-Free.woff"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\assets\\vendors\\linericon\\fonts\\Linearicons-Free.woff2",
+      "PackagePath": "staticwebassets\\assets\\vendors\\linericon\\fonts\\Linearicons-Free.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\assets\\vendors\\linericon\\style.css",
+      "PackagePath": "staticwebassets\\assets\\vendors\\linericon\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\assets\\vendors\\nice-select\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\assets\\vendors\\nice-select\\css\\nice-select.css"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\assets\\vendors\\nice-select\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\vendors\\nice-select\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\assets\\vendors\\nice-select\\js\\jquery.nice-select.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\nice-select\\js\\jquery.nice-select.js"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\assets\\vendors\\nice-select\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\nice-select\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\assets\\vendors\\owl-carousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\assets\\vendors\\owl-carousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\assets\\vendors\\owl-carousel\\assets\\animated.css",
+      "PackagePath": "staticwebassets\\assets\\vendors\\owl-carousel\\assets\\animated.css"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\assets\\vendors\\owl-carousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\assets\\vendors\\owl-carousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\assets\\vendors\\owl-carousel\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendors\\owl-carousel\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\assets\\vendors\\owl-carousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\owl-carousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\assets\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\assets\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\assets\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\assets\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\assets\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\assets\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\assets\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\assets\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\assets\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\assets\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\assets\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\assets\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\assets\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\assets\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\assets\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\images\\arts\\intro-section-illustration.png",
+      "PackagePath": "staticwebassets\\images\\arts\\intro-section-illustration.png"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\images\\arts\\intro-section-illustration.psd",
+      "PackagePath": "staticwebassets\\images\\arts\\intro-section-illustration.psd"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\images\\campanies\\bg-1.jpg",
+      "PackagePath": "staticwebassets\\images\\campanies\\bg-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\images\\campanies\\bg-2.jpg",
+      "PackagePath": "staticwebassets\\images\\campanies\\bg-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\images\\campanies\\campany-1.png",
+      "PackagePath": "staticwebassets\\images\\campanies\\campany-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\images\\campanies\\campany-2.png",
+      "PackagePath": "staticwebassets\\images\\campanies\\campany-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\images\\campanies\\campany-3.png",
+      "PackagePath": "staticwebassets\\images\\campanies\\campany-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\images\\campanies\\campany-4.png",
+      "PackagePath": "staticwebassets\\images\\campanies\\campany-4.png"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\images\\campanies\\campany-5.png",
+      "PackagePath": "staticwebassets\\images\\campanies\\campany-5.png"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\images\\campanies\\campany-6.png",
+      "PackagePath": "staticwebassets\\images\\campanies\\campany-6.png"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\images\\portfolio\\p1.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\p1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\images\\portfolio\\p2.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\p2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\images\\portfolio\\p3.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\p3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\images\\portfolio\\p4.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\p4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\images\\portfolio\\p5.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\p5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\images\\portfolio\\p6.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\p6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\images\\portfolio\\p7.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\p7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\images\\portfolio\\p8.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\p8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\images\\portfolio\\p9.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\p9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\images\\portfolio\\portfolio-1.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\portfolio-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\images\\portfolio\\portfolio-2.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\portfolio-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\images\\portfolio\\portfolio-3.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\portfolio-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\images\\portfolio\\portfolio-4.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\portfolio-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\images\\portfolio\\portfolio-5.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\portfolio-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\images\\portfolio\\portfolio-6.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\portfolio-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\images\\portfolio\\portfolio-7.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\portfolio-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\images\\portfolio\\portfolio-8.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\portfolio-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\images\\portfolio\\portfolio-9.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\portfolio-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\images\\portfolio\\portfolio-details.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\portfolio-details.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\images\\services\\service-1.png",
+      "PackagePath": "staticwebassets\\images\\services\\service-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\images\\services\\service-2.png",
+      "PackagePath": "staticwebassets\\images\\services\\service-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\images\\services\\service-3.png",
+      "PackagePath": "staticwebassets\\images\\services\\service-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\images\\testimonials\\client-1.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonials\\client-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\images\\testimonials\\client-2.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonials\\client-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\images\\testimonials\\client-3.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonials\\client-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\images\\testimonials\\client-4.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonials\\client-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\images\\testimonials\\client-5.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonials\\client-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\about-us.png",
+      "PackagePath": "staticwebassets\\img\\about-us.png"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\banner\\banner-2.jpg",
+      "PackagePath": "staticwebassets\\img\\banner\\banner-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\banner\\banner.jpg",
+      "PackagePath": "staticwebassets\\img\\banner\\banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\banner\\common-banner.png",
+      "PackagePath": "staticwebassets\\img\\banner\\common-banner.png"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\banner\\home-banner.png",
+      "PackagePath": "staticwebassets\\img\\banner\\home-banner.png"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\banner\\home-right.png",
+      "PackagePath": "staticwebassets\\img\\banner\\home-right.png"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\blog\\add.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\add.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\blog\\author.png",
+      "PackagePath": "staticwebassets\\img\\blog\\author.png"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\blog\\c1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\c1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\blog\\c2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\c2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\blog\\c3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\c3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\blog\\c4.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\c4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\blog\\c5.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\c5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\blog\\c6.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\c6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\blog\\cat-post\\cat-post-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\cat-post\\cat-post-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\blog\\cat-post\\cat-post-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\cat-post\\cat-post-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\blog\\cat-post\\cat-post-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\cat-post\\cat-post-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\blog\\causes\\causes-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\causes\\causes-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\blog\\causes\\causes-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\causes\\causes-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\blog\\causes\\causes-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\causes\\causes-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\blog\\feature-img1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\feature-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\blog\\home-blog\\home-blog-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\home-blog\\home-blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\blog\\home-blog\\home-blog-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\home-blog\\home-blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\blog\\home-blog\\home-blog-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\home-blog\\home-blog-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\blog\\main-blog\\m-blog-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\main-blog\\m-blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\blog\\main-blog\\m-blog-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\main-blog\\m-blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\blog\\main-blog\\m-blog-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\main-blog\\m-blog-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\blog\\main-blog\\m-blog-4.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\main-blog\\m-blog-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\blog\\main-blog\\m-blog-5.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\main-blog\\m-blog-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\blog\\next.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\next.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\blog\\popular-post\\post1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\popular-post\\post1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\blog\\popular-post\\post2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\popular-post\\post2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\blog\\popular-post\\post3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\popular-post\\post3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\blog\\popular-post\\post4.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\popular-post\\post4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\blog\\post-img1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\post-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\blog\\post-img2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\post-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\blog\\prev.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\prev.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\body-bg.png",
+      "PackagePath": "staticwebassets\\img\\body-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\brands\\logo1.png",
+      "PackagePath": "staticwebassets\\img\\brands\\logo1.png"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\brands\\logo2.png",
+      "PackagePath": "staticwebassets\\img\\brands\\logo2.png"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\brands\\logo3.png",
+      "PackagePath": "staticwebassets\\img\\brands\\logo3.png"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\brands\\logo4.png",
+      "PackagePath": "staticwebassets\\img\\brands\\logo4.png"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\brands\\logo5.png",
+      "PackagePath": "staticwebassets\\img\\brands\\logo5.png"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\brands\\logo6.png",
+      "PackagePath": "staticwebassets\\img\\brands\\logo6.png"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\brands\\logo7.png",
+      "PackagePath": "staticwebassets\\img\\brands\\logo7.png"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\brands\\logo8.png",
+      "PackagePath": "staticwebassets\\img\\brands\\logo8.png"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\brands\\logo9.png",
+      "PackagePath": "staticwebassets\\img\\brands\\logo9.png"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\client-info-bg.png",
+      "PackagePath": "staticwebassets\\img\\client-info-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\elements\\_DS_Store",
+      "PackagePath": "staticwebassets\\img\\elements"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\elements\\a.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\elements\\a2.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\a2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\elements\\d.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\elements\\disabled-check.png",
+      "PackagePath": "staticwebassets\\img\\elements\\disabled-check.png"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\elements\\disabled-radio.png",
+      "PackagePath": "staticwebassets\\img\\elements\\disabled-radio.png"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\elements\\f1.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\elements\\f2.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\elements\\f3.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\elements\\f4.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\elements\\f5.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\elements\\f6.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\elements\\f7.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\elements\\f8.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\elements\\g1.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\elements\\g2.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\elements\\g3.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\elements\\g4.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\elements\\g5.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\elements\\g6.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\elements\\g7.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\elements\\g8.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\elements\\primary-check.png",
+      "PackagePath": "staticwebassets\\img\\elements\\primary-check.png"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\elements\\primary-radio.png",
+      "PackagePath": "staticwebassets\\img\\elements\\primary-radio.png"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\elements\\success-check.png",
+      "PackagePath": "staticwebassets\\img\\elements\\success-check.png"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\elements\\success-radio.png",
+      "PackagePath": "staticwebassets\\img\\elements\\success-radio.png"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\elements\\user1.png",
+      "PackagePath": "staticwebassets\\img\\elements\\user1.png"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\elements\\user2.png",
+      "PackagePath": "staticwebassets\\img\\elements\\user2.png"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\footer-bg.png",
+      "PackagePath": "staticwebassets\\img\\footer-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\instagram\\Image-01.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram\\Image-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\instagram\\Image-02.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram\\Image-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\instagram\\Image-03.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram\\Image-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\instagram\\Image-04.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram\\Image-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\instagram\\Image-05.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram\\Image-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\instagram\\Image-06.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram\\Image-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\instagram\\Image-07.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram\\Image-07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\instagram\\Image-08.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram\\Image-08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\portfolio\\p1.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\p1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\portfolio\\p2.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\p2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\portfolio\\p3.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\p3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\portfolio\\p4.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\p4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\portfolio\\p5.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\p5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\portfolio\\p6.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\p6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\portfolio\\p7.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\p7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\portfolio\\p8.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\p8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\portfolio\\p9.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\p9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\portfolio\\portfolio-details.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-details.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\services\\s1.png",
+      "PackagePath": "staticwebassets\\img\\services\\s1.png"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\services\\s2.png",
+      "PackagePath": "staticwebassets\\img\\services\\s2.png"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\services\\s3.png",
+      "PackagePath": "staticwebassets\\img\\services\\s3.png"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\services\\s4.png",
+      "PackagePath": "staticwebassets\\img\\services\\s4.png"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\subscribe-bg.png",
+      "PackagePath": "staticwebassets\\img\\subscribe-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\testimonials\\t1.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonials\\t1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\img\\testimonials\\t2.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonials\\t2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\lib\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\lib\\animate\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\lib\\animate\\animate.min.css",
+      "PackagePath": "staticwebassets\\lib\\animate\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\lib\\counterup\\counterup.min.js",
+      "PackagePath": "staticwebassets\\lib\\counterup\\counterup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\lib\\isotope\\isotope.pkgd.js",
+      "PackagePath": "staticwebassets\\lib\\isotope\\isotope.pkgd.js"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\lib\\isotope\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\lib\\isotope\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\lib\\lightbox\\css\\lightbox.css",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\css\\lightbox.css"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\lib\\lightbox\\css\\lightbox.min.css",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\css\\lightbox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\lib\\lightbox\\images\\close.png",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\images\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\lib\\lightbox\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\images\\loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\lib\\lightbox\\images\\next.png",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\images\\next.png"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\lib\\lightbox\\images\\prev.png",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\images\\prev.png"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\lib\\lightbox\\js\\lightbox.js",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\js\\lightbox.js"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\lib\\lightbox\\js\\lightbox.min.js",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\js\\lightbox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\lib\\lightbox\\links.php",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\links.php"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\lib\\main.js",
+      "PackagePath": "staticwebassets\\lib\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\lib\\typed\\typed.js",
+      "PackagePath": "staticwebassets\\lib\\typed\\typed.js"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\lib\\typed\\typed.min.js",
+      "PackagePath": "staticwebassets\\lib\\typed\\typed.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\lib\\wow\\wow.js",
+      "PackagePath": "staticwebassets\\lib\\wow\\wow.js"
+    },
+    {
+      "Id": "C:\\Users\\Abdulhalim\\source\\repos\\Abdulhalim\\wwwroot\\lib\\wow\\wow.min.js",
+      "PackagePath": "staticwebassets\\lib\\wow\\wow.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Abdulhalim.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Abdulhalim.props",
+      "PackagePath": "build\\Abdulhalim.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Abdulhalim.props",
+      "PackagePath": "buildMultiTargeting\\Abdulhalim.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Abdulhalim.props",
+      "PackagePath": "buildTransitive\\Abdulhalim.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
