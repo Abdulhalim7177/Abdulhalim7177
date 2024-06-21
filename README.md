@@ -76,12 +76,7 @@ Connect With Me: <br>
   </a>
   <a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulhalim7177&theme=github_dark" alt="abdulhalim7177" /></a>
 </div> 
-   
-<br>
-<br>
-
-
-###
+   ######
   </p>
 </div>
 
