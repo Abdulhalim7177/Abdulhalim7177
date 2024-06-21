@@ -1,14 +1,38 @@
 # Abdul7177
 My Personal Repo
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulhalim7177&label=Profile%20views&color=0e75b6&style=flat" alt="abdulhalim7177" /> </p>
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=comic+sans&weight=500&size=22&duration=4590&pause=1000&color=00F7CB&random=false&width=435&lines=Hello;My+Name+is+Abdulhalim+Muhammad+Yaro;Software+Engineer%2FFull-Stack+Web+Developer)](https://git.io/typing-svg)
 
-Abdulhalim Muhammad Yaro
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulhalim7177" alt="abdulhalim7177" /></a> </p>
 
+- 🔭 I’m currently working on **eHealthCare 1/0**
+
+- 🌱 I’m currently learning **ASP DotNet Core**
+
+- 👯 I’m looking to collaborate on **Exciting Projects, Open Source and Continuous Learning**
+
+- 👨‍💻 All of my projects are available at [https://abdulhalim7177.bsite.net](https://abdulhalim7177.bsite.net)
+
+- 💬 Ask me about **HTML/CSS JAVASCRIPT,C# ....**
+
+- 📫 How to reach me **abdulmuhd7177@gmail.com**
+
+- 📄 Know about my experiences [https://abdulhalim7177.bsite.net](https://abdulhalim7177.bsite.net)
+
+- ⚡ Fun fact **i like to be happy**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+
+<h1 align="center">Hi 👋, I'm Abdulhalim Muhammad Yaro</h1>
+<h3>
 Software Engineer & Full Stack Developer | Kano, Nigeria 🇳🇬 <br>
 I'm a software engineer with a fire for creating seamless web experiences and a keen eye for efficient database management. I bring my skills to life for a variety of clients, from individual dreamers to established companies.
-
+</h3>
 
 <div align="center">
   <br>
@@ -67,32 +91,10 @@ Connect With Me: <br>
 
 
 
-<h1 align="center">Hi 👋, I'm Abdulhalim Muhammad Yaro</h1>
-<h3 align="center">Software Engineer & Full Stack Developer | Kano, Nigeria 🇳🇬 [Nigeria Flag Badge] I'm a software engineer with a fire for creating seamless web experiences and a keen eye for efficient database management. I bring my skills to life for a variety of clients, from individual dreamers to established companies.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulhalim7177&label=Profile%20views&color=0e75b6&style=flat" alt="abdulhalim7177" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulhalim7177" alt="abdulhalim7177" /></a> </p>
 
-- 🔭 I’m currently working on **eHealthCare 1/0**
 
-- 🌱 I’m currently learning **ASP DotNet Core**
-
-- 👯 I’m looking to collaborate on **Exciting Projects, Open Source and Continuous Learning**
-
-- 👨‍💻 All of my projects are available at [https://abdulhalim7177.bsite.net](https://abdulhalim7177.bsite.net)
-
-- 💬 Ask me about **HTML/CSS JAVASCRIPT,C# ....**
-
-- 📫 How to reach me **abdulmuhd7177@gmail.com**
-
-- 📄 Know about my experiences [https://abdulhalim7177.bsite.net](https://abdulhalim7177.bsite.net)
-
-- ⚡ Fun fact **i like to be happy**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
