@@ -13,7 +13,7 @@ I'm a software engineer with a fire for creating seamless web experiences and a 
 
 <h3 align="left">Connect with me:</h3>
 
-- 🔭 I’m currently working on **eHealthCare 1/0**
+- 🔭 I’m currently working on **eHealthCare 1.0**
 
 - 🌱 I’m currently learning **ASP DotNet Core**
 
@@ -29,7 +29,14 @@ I'm a software engineer with a fire for creating seamless web experiences and a 
 
 - ⚡ Fun fact **i like to be happy**
 
-
+I am a passionate software engineer with a knack for crafting user-friendly websites and expertly managing databases for a diverse clientele, ranging from individual clients to established companies.
+<h3 align="center">What I'm Looking For: </h3><<br>
+    •	Exciting Projects: I'm always on the hunt for new challenges and opportunities to contribute my skills to innovative projects.<br>
+    •	Open Source Collaboration: I believe in the power of open-source communities and am eager to connect and contribute. <br>
+    •	Continuous Learning: The tech world is ever-evolving, and I'm passionate about staying ahead of the curve. <br>
+Connect With Me: <br>
+    •	Browse my code: Dive into my repositories and see how I bring ideas to life. <br>
+    •	Let's Chat: Have a project in mind or just want to connect? Feel free to reach out! <br>
 
 <h3 align="left">Languages and Tools:</h3>
 <!-- Skills Image Icons-->
@@ -78,12 +85,5 @@ I'm a software engineer with a fire for creating seamless web experiences and a 
   </p>
 </div>
 
-What I'm Looking For: <br>
-    •	Exciting Projects: I'm always on the hunt for new challenges and opportunities to contribute my skills to innovative projects.<br>
-    •	Open Source Collaboration: I believe in the power of open-source communities and am eager to connect and contribute. <br>
-    •	Continuous Learning: The tech world is ever-evolving, and I'm passionate about staying ahead of the curve. <br>
-Connect With Me: <br>
-    •	Browse my code: Dive into my repositories and see how I bring ideas to life. <br>
-    •	Let's Chat: Have a project in mind or just want to connect? Feel free to reach out! <br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulhalim7177" alt="abdulhalim7177" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulhalim7177&theme=github_dark" alt="abdulhalim7177" /></a> </p>
