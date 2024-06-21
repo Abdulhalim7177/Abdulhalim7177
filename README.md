@@ -6,7 +6,7 @@ My Personal Repo
 
 Abdulhalim Muhammad Yaro
 
-Software Engineer & Full Stack Developer | Kano, Nigeria 🇳🇬
+Software Engineer & Full Stack Developer | Kano, Nigeria 🇳🇬 <br>
 I'm a software engineer with a fire for creating seamless web experiences and a keen eye for efficient database management. I bring my skills to life for a variety of clients, from individual dreamers to established companies.
 
 
@@ -38,10 +38,10 @@ I'm a software engineer with a fire for creating seamless web experiences and a 
   </p>
 </div>
 
-What I'm Looking For:
-    •	Exciting Projects: I'm always on the hunt for new challenges and opportunities to contribute my skills to innovative projects.
-    •	Open Source Collaboration: I believe in the power of open-source communities and am eager to connect and contribute.
-    •	Continuous Learning: The tech world is ever-evolving, and I'm passionate about staying ahead of the curve.
-Connect With Me:
-    •	Browse my code: Dive into my repositories and see how I bring ideas to life.
-    •	Let's Chat: Have a project in mind or just want to connect? Feel free to reach out!
+What I'm Looking For: <br>
+    •	Exciting Projects: I'm always on the hunt for new challenges and opportunities to contribute my skills to innovative projects.<br>
+    •	Open Source Collaboration: I believe in the power of open-source communities and am eager to connect and contribute. <br>
+    •	Continuous Learning: The tech world is ever-evolving, and I'm passionate about staying ahead of the curve. <br>
+Connect With Me: <br>
+    •	Browse my code: Dive into my repositories and see how I bring ideas to life. <br>
+    •	Let's Chat: Have a project in mind or just want to connect? Feel free to reach out! <br>
