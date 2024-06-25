@@ -15,13 +15,13 @@ I'm a software engineer with a fire for creating seamless web experiences and a 
 
 - 🔭 I’m currently working on **eHealthCare 1.0**
 
-- 🌱 I’m currently learning **ASP DotNet Core**
+- 🌱 I’m currently learning **BlockChain Development (RUST)**
 
 - 👯 I’m looking to collaborate on **Exciting Projects, Open Source and Continuous Learning**
 
 - 👨‍💻 All of my projects are available at [https://abdulhalim7177.bsite.net](https://abdulhalim7177.bsite.net)
 
-- 💬 Ask me about **HTML/CSS JAVASCRIPT,C# ....**
+- 💬 Ask me about **HTML/CSS JAVASCRIPT, C# ....**
 
 - 📫 How to reach me **abdulmuhd7177@gmail.com**
 
@@ -30,7 +30,7 @@ I'm a software engineer with a fire for creating seamless web experiences and a 
 - ⚡ Fun fact **i like to be happy**
 
 I am a passionate software engineer with a knack for crafting user-friendly websites and expertly managing databases for a diverse clientele, ranging from individual clients to established companies.
-<h3 align="center">What I'm Looking For: </h3><<br>
+<h3 align="center">What I'm Looking For: </h3><br>
     •	Exciting Projects: I'm always on the hunt for new challenges and opportunities to contribute my skills to innovative projects.<br>
     •	Open Source Collaboration: I believe in the power of open-source communities and am eager to connect and contribute. <br>
     •	Continuous Learning: The tech world is ever-evolving, and I'm passionate about staying ahead of the curve. <br>
