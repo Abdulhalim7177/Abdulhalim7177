@@ -29,7 +29,7 @@ I'm a software engineer with a fire for creating seamless web experiences and a 
 
 - ⚡ Fun fact **i like to be happy**
 
-I am a passionate software engineer with a knack for crafting user-friendly websites and expertly managing databases for a diverse clientele, ranging from individual clients to established companies.
+I am a passionate software engineer with a knack for crafting user-friendly websites and expertly managing databases for a diverse client, ranging from individual clients to established companies.
 <h3 align="center">What I'm Looking For: </h3><br>
     •	Exciting Projects: I'm always on the hunt for new challenges and opportunities to contribute my skills to innovative projects.<br>
     •	Open Source Collaboration: I believe in the power of open-source communities and am eager to connect and contribute. <br>
@@ -40,26 +40,11 @@ Connect With Me: <br>
 
 <h3 align="left">Languages and Tools:</h3>
 <!-- Skills Image Icons-->
-<div style="display: inline_block">
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 <div align="center">
   <br>
   <a href="#">
