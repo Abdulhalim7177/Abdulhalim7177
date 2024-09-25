@@ -7,7 +7,7 @@ My Personal Repo
 
 <h1 align="center">Hi 👋, I'm Abdulhalim Muhammad Yaro</h1>
 <h3>
-Software Engineer & Full Stack Developer | Kano, Nigeria 🇳🇬 <br>
+Software Engineer | Full Stack Developer<br>
 I'm a software engineer with a fire for creating seamless web experiences and a keen eye for efficient database management. I bring my skills to life for a variety of clients, from individual dreamers to established companies.
 </h3>
 
@@ -21,7 +21,7 @@ I'm a software engineer with a fire for creating seamless web experiences and a 
 
 - 👨‍💻 All of my projects are available at [https://abdulhalim7177.bsite.net](https://abdulhalim7177.bsite.net)
 
-- 💬 Ask me about **HTML/CSS JAVASCRIPT, C# ....**
+- 💬 Ask me about Web and Software Development**
 
 - 📫 How to reach me **abdulmuhd7177@gmail.com**
 
