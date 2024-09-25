@@ -42,7 +42,7 @@ Connect With Me: <br>
 <!-- Skills Image Icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,c,c++,c#,dotnet,php,laravel,alphine.js,bootstrap,tailwind" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,cs,dotnet,php,laravel,alpinejs,bootstrap,tailwind,vite,rust,htmx" />
   </a>
 </p>
 <div align="center">
