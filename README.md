@@ -42,12 +42,12 @@ Connect With Me: <br>
 <!-- Skills Image Icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,cs,dotnet,php,laravel,alpinejs" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,cs,dotnet,php,laravel" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,vite,rust,htmx" />
+    <img src="https://skillicons.dev/icons?i=alpinejs,bootstrap,tailwind,vite,rust,htmx" />
   </a>
 </p>
 <div align="center">
