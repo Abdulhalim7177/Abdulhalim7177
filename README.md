@@ -3,6 +3,16 @@ My Personal Repo
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulhalim7177&label=Profile%20views&color=0e75b6&style=flat" alt="abdulhalim7177" /> </p>
 
 
+<h1 align="center">Hey There!<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35"> 
+ 
+<!-- I am a Student with a passion for solving problems and creating innovative solutions. I have a strong background in computer science and have experience working on a variety of projects, including web development, mobile app development, and open source. In my free time, I enjoy learning new technologies, reading, and spending time with my family. I am a hardworking and dedicated individual who is always striving to improve my skills and grow as a professional. -->
+ 
+  ![gitartwork](gitartwork.svg)
+  
+  <!-- <p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=ADAMU+MUHAMMAD+MUHAMMAD;Computer+Science+Student;From+Gombe+State+Nigeria;Software+Engineering+student+@+Alx+hobelton+school&center=true&width=380&height=45"></a>
+</p> -->      
+</h1>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=comic+sans&weight=500&size=22&duration=4590&pause=1000&color=00F7CB&random=false&width=435&lines=Hello;My+Name+is+Abdulhalim+Muhammad+Yaro;Software+Engineer%2FFull-Stack+Web+Developer)](https://git.io/typing-svg)
 
 <h1 align="center">Hi 👋, I'm Abdulhalim Muhammad Yaro</h1>
