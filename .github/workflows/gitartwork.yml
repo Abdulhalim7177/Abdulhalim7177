@@ -12,5 +12,5 @@
             # Use this username's contribution graph  
             user_name: Abdulhalim
             # Text on contribution graph 
-            text: Abdul
+            text: MegaMind
        - uses: jasineri/simple-push-action@v1
