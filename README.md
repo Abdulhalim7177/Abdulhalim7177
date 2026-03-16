@@ -57,11 +57,6 @@ Connect With Me: <br>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=alpinejs,bootstrap,tailwind,vite,rust,htmx,docker,ts,fastapi" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vue,threejs,supabase,sqlite,styledcomponents,redis,py,prisma,mongodb,kubernetes" />
   </a>
 </p>
