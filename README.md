@@ -57,7 +57,7 @@ Connect With Me: <br>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,threejs,supabase,sqlite,styledcomponents,redis,py,prisma,mongodb, kubernetes" />
+    <img src="https://skillicons.dev/icons?i=vue,threejs,supabase,sqlite,styledcomponents,redis,py,prisma,mongodb,kubernetes" />
   </a>
 </p>
 <div align="center">
