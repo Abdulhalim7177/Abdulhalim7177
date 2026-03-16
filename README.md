@@ -47,7 +47,7 @@ Connect With Me: <br>
 <!-- Skills Image Icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,cs,dotnet,php,laravel" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,cs,dotnet,php,laravel,nodejs" />
   </a>
 </p>
 <p align="center">
